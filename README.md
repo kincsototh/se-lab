@@ -1,2 +1,0 @@
-# se-lab
-Szofttech labor 
